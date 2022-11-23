@@ -1,9 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using System;
-using System.Linq;
-
 
 /// <summary>
 /// 유용한 기능의 함수를 모아둠
